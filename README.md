@@ -1,5 +1,6 @@
 # Visualização de dados com Python
 
+### No notebook "graficos.ipynb" você verá como:
 * Visualizar de dados com Python 
 * Utilizar a biblioteca MATPLOTLIB PYPLOT
 * Construir gráficos de linhas, barras, dispersão e boxplot
