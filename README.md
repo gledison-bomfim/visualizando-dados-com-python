@@ -8,7 +8,7 @@
 Visualização de dados é uma importante área de estudo para Data Science.
 
 ## Google Colab
-Se você não tiver o anaconda em seu computador e deseja rodar os notebooks deste repositório, sugiro que utilize o *google colab*, basta ter uma conta gmail e acessar:
+Se você não tiver o jupyter notebook em seu computador e deseja rodar os notebooks deste repositório, sugiro que utilize o *google colab*, basta ter uma conta gmail e acessar:
 <a href="https://colab.research.google.com/" target="_blank">Google Colab</a>
 
 
