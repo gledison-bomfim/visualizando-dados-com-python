@@ -7,7 +7,15 @@
 
 Visualização de dados é uma importante área de estudo para Data Science.
 
-## Google Colab
+## Google Colaboratory ou "Colab"
+O que é o Colaboratory?
+O Colaboratory ou "Colab" permite escrever código Python no seu navegador, com:
+
+Nenhuma configuração necessária
+Acesso gratuito a GPUs
+Compartilhamento fácil
+Você pode ser um estudante, um cientista de dados ou um pesquisador de IA, o Colab pode facilitar seu trabalho. Assista ao vídeo Introdução ao Colab para saber mais ou simplesmente comece a usá-lo abaixo!
+
 Se você não tiver o jupyter notebook em seu computador e deseja rodar os notebooks deste repositório, sugiro que utilize o *google colab*, basta ter uma conta gmail e acessar:
 <a href="https://colab.research.google.com/" target="_blank">Google Colab</a>
 
